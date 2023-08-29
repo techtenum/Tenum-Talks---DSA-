@@ -1,1 +1,1 @@
-# Tenum-Talks---DSA-
+# Tenum-Talks - Data STructures & Algorithms
