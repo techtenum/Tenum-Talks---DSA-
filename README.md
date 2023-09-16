@@ -15,3 +15,31 @@ To start contributing, please share your email address to admin@techtenum.com wi
 Once added, you can now contribute!
 
 Every contribution should be made as a separate branch and a merge request made. Ensure that there are no merge conflicts. The changes will then be approved and merged.
+
+## start of file structure
+
+- project root
+    - Talk directory
+        # Language directory
+        - js
+            - 'score'_'github username (1)'.js
+            - 'score'_'github username (2)'.js
+        - python
+            - 'score'_'github username (1)'.py
+            - 'score'_'github username (2)'.py
+        - php
+            - 'score'_'github username (1)'.php
+            - 'score'_'github username (2)'.php
+
+## i.e
+
+- __Tenum-Talks---DSA__ ## project root directory
+   - __tenumTalk07__ ## Talk directory
+     - __26_removeDuplicatesFromSortedArray_leetcode__ ## task root directory
+       - __js__ ## js root directory
+         - [Ginger-Stone.js] ## js solutions (file name: 'github username'.js)
+       - __python__ ## python root directory
+         - [emmanuelkens.py] ## python solutions (file name: 'github username'.js)
+
+
+## end of file structure
