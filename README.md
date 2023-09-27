@@ -62,10 +62,10 @@ For Leetcode, add both speedScore and memoryScore for example
 
 This file will now be named [91_78_Ginger-Stone.js] _speedScore_: '91' and _memoryScore_: 78.
 
-![Leetcode Scores](./images/checkScore_leetcode.png)
+![Leetcode Scores](./assets/images/checkScore_leetcode.png)
 
 ### Codingame Scores - _Annotated in red_
 
 This file will now be named [100_Ginger-Stone.js] Since score is defined as passing all test cases in Codingame, then we'll have our score as only the percentage.
 
-![Codingame Scores](./images/checkScore_codingame.png)
+![Codingame Scores](./assets/images/checkScore_codingame.png)
